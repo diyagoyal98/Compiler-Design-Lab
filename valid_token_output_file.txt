@@ -1,0 +1,53 @@
+include Keyword
+< Operators
+stdio Keyword
+. Float
+h Identifier
+> Operators
+
+int Keyword
+main Keyword
+( Brackets
+) Brackets
+
+{ Brackets
+
+printf Identifier
+( Brackets
+Hello Identifier
+world Identifier
+) Brackets
+; Terminator
+
+for Keyword
+( Brackets
+int Keyword
+i Identifier
+= Operators
+0 Integer
+; Terminator
+i Identifier
+< Operators
+= Operators
+1 Integer
+; Terminator
+i Identifier
++ Operators
++ Operators
+) Brackets
+
+{ Brackets
+
+printf Identifier
+( Brackets
+hiii Identifier
+) Brackets
+; Terminator
+
+} Brackets
+
+return Keyword
+0 Integer
+; Terminator
+
+} Brackets
