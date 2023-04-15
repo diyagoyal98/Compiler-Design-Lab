@@ -1,0 +1,4 @@
+Number of spaces are 6
+Number of tabs are 6
+Number of new lines are 2
+Number of characters are 29
