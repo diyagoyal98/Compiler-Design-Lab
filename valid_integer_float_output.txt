@@ -1,0 +1,9 @@
+11Integer
+0.1
+Float  
+
+1.0
+Float  
+
+11.0
+Float  
