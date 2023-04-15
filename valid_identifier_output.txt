@@ -1,0 +1,8 @@
+diya is valid identifier
+
+diya_123 is valid identifier
+
+123_diyais not a valid identifier
+
+_diya is valid identifier
+
